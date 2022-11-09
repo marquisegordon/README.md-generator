@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquisegordon/README.md-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/marquisegordon/README.md-generator/issues"
+  },
+  "homepage": "https://github.com/marquisegordon/README.md-generator#readme",
+  "devDependencies": {}
 }
