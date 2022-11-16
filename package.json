@@ -1,7 +1,6 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +19,6 @@
     "url": "https://github.com/marquisegordon/README.md-generator/issues"
   },
   "homepage": "https://github.com/marquisegordon/README.md-generator#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "description": ""
 }

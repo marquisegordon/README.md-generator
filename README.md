@@ -1,9 +1,9 @@
-# README
+# README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-red)
 
 ## Description
 
-short description
+This application will help you create a clean, professional README.md file for any project.
 
 ## Table of Contents (Optional)
 
@@ -16,11 +16,11 @@ short description
 
 ## Installation
 
-na
+npm i inquirer@8.2.4
 
 ## Usage
 
-na
+When creating any changes be sure to be working on a seperate branch from the main branch. Also be sure to close all of your branches once you are done using it.
 
 ## License
 
@@ -28,11 +28,11 @@ This project is licensed under the MIT license.
 
 ## Contribute
 
-na.
+For any desired changes you will have to create a pull request which will have to reviewed by at least 1 other deveopler  on the project..
 
 ## Tests
 
-na.
+N/A.
 
 ## Questions
 
