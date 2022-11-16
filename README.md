@@ -13,6 +13,7 @@ This application will help you create a clean, professional README.md file for a
 - [Contribute](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
+-[Walkthrough](#walkthrough)
 
 ## Installation
 
@@ -33,6 +34,10 @@ For any desired changes you will have to create a pull request which will have t
 ## Tests
 
 N/A.
+
+## Walkthrough
+
+This will take you to a walkthrough video of the application. https://watch.screencastify.com/v/OwGwmemt5lxsesa7zaL4
 
 ## Questions
 
