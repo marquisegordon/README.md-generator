@@ -1,43 +1,28 @@
-# README Generator
+# Employee-Tracker
 ![GitHub license](https://img.shields.io/badge/license-MIT-red)
 
 ## Description
 
-This application will help you create a clean, professional README.md file for any project.
+This project is a command-line application for a company to track their employees and employement info such as employee: roles, departments, and managers. The application can also add roles, and departments as well as update employee roles.
 
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribute](#contribute)
-- [Tests](#tests)
 - [Questions](#questions)
--[Walkthrough](#walkthrough)
 
 ## Installation
 
-npm i inquirer@8.2.4
+npm i or npm install
 
 ## Usage
 
-When creating any changes be sure to be working on a seperate branch from the main branch. Also be sure to close all of your branches once you are done using it.
+Feel free to clone the repository but please do not push straight to the main branch without first creating a new branch then creating a new pull request.
 
 ## License
 
 This project is licensed under the MIT license.
-
-## Contribute
-
-For any desired changes you will have to create a pull request which will have to reviewed by at least 1 other deveopler  on the project..
-
-## Tests
-
-N/A.
-
-## Walkthrough
-
-This will take you to a walkthrough video of the application. https://watch.screencastify.com/v/OwGwmemt5lxsesa7zaL4
 
 ## Questions
 
